@@ -5,6 +5,7 @@
 
 let backpackContents = ["piggy", "headlamp", "pen"];
 
+backpackContents.push("pencil", 5);
 console.log(backpackContents);
 
 // backpackContents.forEach(function (item) {
